@@ -41,6 +41,9 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 
+# data
+quiz_data/
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
