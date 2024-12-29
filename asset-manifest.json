@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/chicago-news-quiz-2024/static/css/main.a4299ead.css",
-    "main.js": "/chicago-news-quiz-2024/static/js/main.989b94a0.js",
+    "main.js": "/chicago-news-quiz-2024/static/js/main.c505b5e1.js",
     "static/js/453.4ded8687.chunk.js": "/chicago-news-quiz-2024/static/js/453.4ded8687.chunk.js",
     "static/media/2.jpg": "/chicago-news-quiz-2024/static/media/2.646aff61c83a8355d11d.jpg",
     "static/media/1.jpg": "/chicago-news-quiz-2024/static/media/1.0352a6aa2439d58b6ace.jpg",
     "index.html": "/chicago-news-quiz-2024/index.html",
     "main.a4299ead.css.map": "/chicago-news-quiz-2024/static/css/main.a4299ead.css.map",
-    "main.989b94a0.js.map": "/chicago-news-quiz-2024/static/js/main.989b94a0.js.map",
+    "main.c505b5e1.js.map": "/chicago-news-quiz-2024/static/js/main.c505b5e1.js.map",
     "453.4ded8687.chunk.js.map": "/chicago-news-quiz-2024/static/js/453.4ded8687.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4299ead.css",
-    "static/js/main.989b94a0.js"
+    "static/js/main.c505b5e1.js"
   ]
 }
