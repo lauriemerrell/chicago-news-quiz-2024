@@ -1,6 +1,6 @@
 # README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and it [deploys automatically to GitHub pages](https://create-react-app.dev/docs/deployment/#github-pages). 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), and it [deploys to GitHub pages when `npm run deploy` is run](https://create-react-app.dev/docs/deployment/#github-pages). 
 
 I referenced [SafdarJamal's quiz-app](https://github.com/SafdarJamal/quiz-app) and [this Codevertiser article](https://www.codevertiser.com/quiz-app-using-reactjs/) for examples of quizzes in React. 
 
@@ -8,6 +8,7 @@ The answers are in `quiz_data.json`. I didn't bother trying to make the key secr
 
 <details>
 <summary>Image sources are (collapsed in case anyone cares about spoilers)</summary>
+
 * Image 1: https://www.cps.edu/about/leadership/executive-leadership/
 * Image 2: https://en.wikipedia.org/wiki/Chicago_rat_hole
 </details>
