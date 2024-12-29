@@ -60,7 +60,7 @@
     {
         "questionId": "8",
         "type": "MCQ",
-        "question": "What type of development is proposed for the fromer US Steel South Works site, with the backing of the governor and the mayor?",
+        "question": "What type of development is proposed for the former US Steel South Works site, with the backing of the governor and the mayor?",
         "answers": ["Bears stadium", "Public housing", "Quantum computing campus", "Foxconn factory"],
         "correctAnswer": ["Quantum computing campus"],
         "source": "https://chicago.suntimes.com/other-views/2024/10/09/pritzker-positions-city-illinois-lead-charge-quantum-computing-anthony-lazzara"
