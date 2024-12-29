@@ -11,6 +11,7 @@ The answers are in `quiz_data.json`. I didn't bother trying to make the key secr
 
 * Image 1: https://www.cps.edu/about/leadership/executive-leadership/
 * Image 2: https://en.wikipedia.org/wiki/Chicago_rat_hole
+* Chicago flag favicon: https://en.wikipedia.org/wiki/Flag_of_Chicago
 </details>
 
 
